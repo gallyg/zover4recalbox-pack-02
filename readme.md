@@ -46,10 +46,10 @@ Ces dossiers sont à copier dans le répertoire suivant de votre Recalbox : /rec
 
 Aperçu pack 01 (volume 1)
 =========================
-![3DO pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/3do.png)
-![Atari 2600 pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/atari2600.png)
-![Megadrive pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/megadrive.png)
-![Super Nintendo pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/snes.png)
+![3DO pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean/3do.png)
+![Atari 2600 pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean/atari2600.png)
+![Megadrive pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean/megadrive.png)
+![Super Nintendo pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean/snes.png)
 
 
 Aperçu pack 02 (4/3 - pixel perfect) (volume 1)
@@ -57,8 +57,8 @@ Aperçu pack 02 (4/3 - pixel perfect) (volume 1)
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
-![4/3 pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack02-clean-720/4-3.png)
-![GBA pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack02-clean-720/gba-lg.png)
+![4/3 pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack02-clean/4-3.png)
+![GBA pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack02-clean/gba-lg.png)
 
 
 Aperçu pack 03 (4/3 - pixel perfect) (volume 1)
@@ -66,8 +66,8 @@ Aperçu pack 03 (4/3 - pixel perfect) (volume 1)
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
-![4/3 pack 03](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack03-clean-720/4-3.png)
-![GBA pack 03](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack03-clean-720/gba-lg.png)
+![4/3 pack 03](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack03-clean/4-3.png)
+![GBA pack 03](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack03-clean/gba-lg.png)
 
 
 Aperçu pack 04 (4/3 - pixel perfect) (volume 1)
@@ -75,8 +75,8 @@ Aperçu pack 04 (4/3 - pixel perfect) (volume 1)
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
-![4/3 pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack04-clean-720/4-3.png)
-![GBA pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack04-clean-720/gba-lg.png)
+![4/3 pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack04-clean/4-3.png)
+![GBA pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack04-clean/gba-lg.png)
 
 
 Aperçu pack 05 - Arcade (4/3) (volume 1)
@@ -87,9 +87,9 @@ Aperçu pack 05 - Arcade (4/3) (volume 1)
 
 Aperçu pack handhelds (consoles portables) (volume 1)
 =====================================================
-![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gb.png)
-![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gbc.png)
-![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gg.png)
+![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean/gb.png)
+![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean/gbc.png)
+![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean/gg.png)
 
 
 Vectrex (volume 1)
@@ -161,22 +161,22 @@ Aperçu pack 08 (4/3) (volume 2)
 ===============================
 01-Retour vers le futur
 -----------------------
-![4/3 01-Retour vers le futur pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/01-retour-vers-le-futur/4-3.png)
+![4/3 01-Retour vers le futur pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean/01-retour-vers-le-futur/4-3.png)
 02-Cobra
 --------
-![4/3 02-Cobra pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/02-cobra/4-3.png)
+![4/3 02-Cobra pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean/02-cobra/4-3.png)
 03-Gally
 --------
-![4/3 03-Gally pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/03-gally/4-3.png)
+![4/3 03-Gally pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean/03-gally/4-3.png)
 04-Ken le survivant
 -------------------
-![4/3 04-Ken le survivant pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/04-ken-le-survivant/4-3.png)
+![4/3 04-Ken le survivant pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean/04-ken-le-survivant/4-3.png)
 05-Ghost in the shell
 ---------------------
-![4/3 05-Ghost in the shell pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/05-ghost-in-the-shell/4-3.png)
+![4/3 05-Ghost in the shell pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean/05-ghost-in-the-shell/4-3.png)
 06 My little poney
 ------------------
-![4/3 06 My little poney pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/06-my-little-poney/4-3.png)
+![4/3 06 My little poney pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean/06-my-little-poney/4-3.png)
 
 
 Changelog
